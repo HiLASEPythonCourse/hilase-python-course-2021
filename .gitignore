@@ -132,3 +132,4 @@ dmypy.json
 *DLL
 .vs
 /.vscode
+*cffi.*
